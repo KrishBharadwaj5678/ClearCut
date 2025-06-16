@@ -58,16 +58,19 @@ We welcome contributions! 🚀
 
 1. 🍴 **Fork the repository**
 2. 🌿 **Create a new branch**
+   
    ```bash
    git checkout -b feature-name
    ```
-3. ✏️ **Make your changes**
-4. 📜 **Commit your changes**
+4. ✏️ **Make your changes**
+5. 📜 **Commit your changes**
+   
    ```bash
    git commit -am 'Add feature'
    ```
-5. ⬆️ **Push to the branch**
+6. ⬆️ **Push to the branch**
+   
    ```bash
    git push origin feature-name
    ```
-6. 🔄 **Open a pull request**
+8. 🔄 **Open a pull request**
