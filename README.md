@@ -4,7 +4,7 @@
 
 ---
 
-### 🌟 **Features**
+## 🌟 **Features**
 
 | Feature                               | Description                                                      |
 | ------------------------------------- | ---------------------------------------------------------------- |
@@ -29,19 +29,25 @@
 
 ---
 
-## Installation
+## 🛠️ **Installation**
 
-### Step 1: Clone the repository
+## Step 1: Clone the repository
 
 ```bash
 git clone https://github.com/yourusername/ClearCut.git
 cd ClearCut
 ```
 
-### Step 2: Install required dependencies
+## Step 2: Install required dependencies
 
 ```bash
 pip install -r requirements.txt
+```
+
+## Step 3: Run the application
+
+```bash
+python app.py
 ```
 
 ---
