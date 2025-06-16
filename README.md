@@ -4,18 +4,21 @@
 
 ---
 
-## Features:
+### 🌟 **Features**:
 
-* **Real-time background removal** using your webcam.
-* Utilizes the **SelfieSegmentation** module for efficient and high-quality segmentation.
-* Supports custom background replacement (e.g., solid colors, images).
-* Lightweight and easy-to-use with minimal setup.
+| Feature                               | Description                                                      |
+| ------------------------------------- | ---------------------------------------------------------------- |
+| 🎥 **Real time background removal**   | Instantly removes backgrounds during webcam streaming.           |
+| 🤖 **SelfieSegmentation Module**      | Uses **SelfieSegmentation** for high-quality results.            |
+| 🎨 **Custom Background Replacement**  | Replace backgrounds with images                                  |
+| ⚡ **Lightweight & Fast**              | Optimized for low-latency performance.                           |
+| 💻 **Works on Any Webcam**            | Compatible with most webcams.                                    |
+| 🛠️ **Simple Setup**                  | Easy installation with minimal dependencies.                     |
+| 🌍 **Cross-platform**                 | Available on Windows, macOS, and Linux.                          |
 
 ---
 
 ## Installation
-
-To get started with **ClearCut**, follow these simple steps:
 
 ### Step 1: Clone the repository
 
