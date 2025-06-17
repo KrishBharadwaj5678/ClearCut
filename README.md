@@ -4,17 +4,17 @@
 
 ---
 
-## 🌟 **Features**
+### 🌟 **Features**
 
-| Feature                               | Description                                                      |
-| ------------------------------------- | ---------------------------------------------------------------- |
-| 🎥 **Real time background removal**   | Instantly removes backgrounds during webcam streaming.           |
-| 🤖 **SelfieSegmentation Module**      | Uses SelfieSegmentation for high-quality results.            |
-| 🎨 **Custom Background Replacement**  | Replace backgrounds with images                                  |
-| ⚡ **Lightweight & Fast**              | Optimized for low-latency performance.                           |
-| 💻 **Works on Any Webcam**            | Compatible with most webcams.                                    |
-| 🛠️ **Simple Setup**                  | Easy installation with minimal dependencies.                     |
-| 🌍 **Cross-platform**                 | Available on Windows, macOS, and Linux.                          |
+| Feature                             | Description                                                      |
+| ----------------------------------- | ---------------------------------------------------------------- |
+| 🎥 **Real-time background removal** | Instantly removes backgrounds during webcam streaming.           |
+| 🤖 **SelfieSegmentation Module**    | Uses SelfieSegmentation for high-quality results.                |
+| ⌨️ **Keyboard Controls**            | Press **`A`** for the previous background, **`D`** for the next. |
+| ⚡ **Lightweight & Fast**            | Optimized for low-latency performance.                           |
+| 💻 **Works on Any Webcam**          | Compatible with most webcams.                                    |
+| 🛠️ **Simple Setup**                | Easy installation with minimal dependencies.                     |
+| 🌍 **Cross-platform**               | Available on Windows, macOS, and Linux.                          |
 
 ---
 
