@@ -34,7 +34,7 @@
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ClearCut.git
+git clone https://github.com/KrishBharadwaj5678/ClearCut.git
 cd ClearCut
 ```
 
