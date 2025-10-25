@@ -2,6 +2,8 @@
 
 **ClearCut** is a Python script that removes backgrounds in real time using your webcam. It helps you replace backgrounds seamlessly as you stream live from your camera. 🎥
 
+![ClearCutDemo](https://github.com/KrishBharadwaj5678/ClearCut/raw/main/ClearCutDemo.png)
+
 ---
 
 ### 🌟 **Features**
