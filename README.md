@@ -1,10 +1,8 @@
 # 🎬 ClearCut
 
-**ClearCut** is a Python script that removes backgrounds in real time using your webcam. It helps you replace backgrounds seamlessly as you stream live from your camera. 🎥
+**ClearCut** is a Python script that removes backgrounds in real time using your webcam. It helps you replace backgrounds seamlessly as you stream live from your camera. 
 
 ![ClearCutDemo](https://github.com/KrishBharadwaj5678/ClearCut/raw/main/ClearCutDemo.png)
-
----
 
 ### 🌟 **Features**
 
@@ -31,48 +29,39 @@
 
 ---
 
-## 🛠️ **Installation**
+## 🛠️ Installation
 
-### Step 1: Clone the repository
+### 1️⃣ Clone the Repository
 
 ```bash
 git clone https://github.com/KrishBharadwaj5678/ClearCut.git
+````
+
+### 2️⃣ Navigate to Folder
+
+```bash
 cd ClearCut
 ```
 
-### Step 2: Install required dependencies
+### 3️⃣ Install Dependencies
 
 ```bash
 pip install -r requirements.txt
 ```
 
-### Step 3: Run the application
+### 4️⃣ Run the Application
 
 ```bash
 python app.py
 ```
-
 ---
 
-## 🤝 **Contributing**
+## Contributing 🤝
 
-We welcome contributions! 🚀
+Want to contribute? Here's how:
 
-1. 🍴 **Fork the repository**
-2. 🌿 **Create a new branch**
-   
-   ```bash
-   git checkout -b feature-name
-   ```
-4. ✏️ **Make your changes**
-5. 📜 **Commit your changes**
-   
-   ```bash
-   git commit -am 'Add feature'
-   ```
-6. ⬆️ **Push to the branch**
-   
-   ```bash
-   git push origin feature-name
-   ```
-8. 🔄 **Open a pull request**
+1. 🍴 Fork the repository.
+2. 🌿 Create a new branch (`git checkout -b feature-name`).
+3. ✍️ Make your changes and commit them (`git commit -am 'Add feature-name'`).
+4. 🚀 Push to your branch (`git push origin feature-name`).
+5. 🔄 Submit a pull request to merge into the main branch.
